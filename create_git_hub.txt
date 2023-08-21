@@ -1,0 +1,8 @@
+1er Créer un repository sur mon github
+2 Aller sur le dossier à transférer; clik droit, gitbash
+3 Git init 
+4 git remote add origin (copier l'adresse du repository)
+5 git pull origin master (du repository à mon git)
+6 git add *
+7 git commit -m"(taper message)"
+8 git push origin master (de mon git à mon repository)

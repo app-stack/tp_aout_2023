@@ -1,0 +1,40 @@
+visiteur => se connecte
+visiteur => redemande le mot de passe perdu
+
+employé => demander une intervention
+employé => afficher la liste de ses demandes d'interventions
+employé => se déconnecter
+employé => avoir accès à la liste de son matériel (assigné à lui personnellement)
+employé => modifier sa demande d'intervention
+
+
+technicien => renseigner une fiche d'intervention
+technicien => afficher la liste des fiches d'interventions
+technicien => afficher la liste des demandes d'interventions
+technicien => renseigner une solution technique (procédure d'explication ou de solution d'un quelconque problème)
+technicien => voir la liste des procédures
+technicien => voir la liste du matériel
+technicien => modifier sa fiche d'intervention
+
+responsable => ajouter le matériel
+responsable => modifier le matériel
+responsable => avoir accès à la liste des employés
+responsable => supprimer une demande d'intervention
+responsable => supprimer un matériel
+responsable => supprimer une solution technique
+responsable => ajouter un logiciel 
+responsable => supprimer un logiciel 
+responsable => modifier un logiciel 
+responsable => afficher la liste des logiciels
+responsable => assigner un matériel
+responsable => supprimer une assignation matériel 
+responsable => modifier une assignation matériel 
+responsable => supprimer une assignation matériel 
+responsable => assigner un logiciel 
+responsable => supprimer une assignation de logiciel 
+responsable => modifier une assignation de logiciel 
+
+Admin => ajouter un compte
+Admin => supprimer un compte
+Admin => modifier un compte
+Admin => afficher un compte

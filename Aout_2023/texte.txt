@@ -1,5 +1,5 @@
-visiteur => se connecte
-visiteur => redemande le mot de passe perdu
+visiteur => se connecter
+visiteur => redemander le mot de passe perdu
 
 employé => demander une intervention
 employé => afficher la liste de ses demandes d'interventions
@@ -10,7 +10,7 @@ employé => modifier sa demande d'intervention
 
 technicien => renseigner une fiche d'intervention
 technicien => afficher la liste des fiches d'interventions
-technicien => afficher la liste des demandes d'interventions
+technicien => afficher la liste de toutes les demandes d'interventions
 technicien => renseigner une solution technique (procédure d'explication ou de solution d'un quelconque problème)
 technicien => voir la liste des procédures
 technicien => voir la liste du matériel
@@ -38,3 +38,5 @@ Admin => ajouter un compte
 Admin => supprimer un compte
 Admin => modifier un compte
 Admin => afficher un compte
+
+

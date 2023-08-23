@@ -1,0 +1,11 @@
+Fork => une entrée => plusieurs sorties
+
+Join => plusieurs entrées => une seule sortie
+
+Merge => inverse d'une decision (plusieurs entrées => une sortie)
+
+Decision => une entrée => plusieurs sorties
+
+Diagramme sequence Tout ce qu'on peut corriger => scénario alternatif
+
+Diagramme sequence Tout ce qu'on ne peut pas corriger => scénario d'erreur

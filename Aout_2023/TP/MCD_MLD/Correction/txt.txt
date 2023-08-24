@@ -1,0 +1,44 @@
+Utilisateurs => Rôle(type utilisateurs) => 
+
+
+Equipements => Marques => Types => Etat(statut) => 
+
+
+Logiciels => Editeur => Type => 
+
+
+Demandes d'interventions (Tickets) => Type => statut 
+
+
+Interventions => Type => statut 
+
+
+Solution => Type => 
+
+
+Je ne peux pas avoir cardinalité 0,1 des 2 côtés 
+cardinalité 1,1 => obligatoire de le rensigner, 
+sans cela je ne sais pas à qui l'attribuer, 
+par exemple un ticket dans une intervention informatique 
+(changer un matériel? équipement?...)
+
+
+mySQL on part de la table avec le plus grand nombre de relations
+
+-------------------------------------------------------
+
+E-commerce
+
+Produits (articles) id_date
+
+0,n
+AJOUTER qtx
+1,n
+
+0,1
+Panier id_nom_tarif      0,1    =>    0,n PAIEMENT id_nom
+
+SPECIFIER
+
+0,n
+Type id_nom
